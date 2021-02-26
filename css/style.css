@@ -1990,3 +1990,9 @@ body.ie .ibg img {
 		text-decoration: underline;
 	}
 }
+
+@media (max-width: 991.98px) {
+	.search-form label {
+		font-size: 0;
+	}
+}
